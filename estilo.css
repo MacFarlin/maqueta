@@ -1,0 +1,46 @@
+nav{
+	position: absolute;
+	top: 0px;
+	background-color: #D9425F;
+	width: 100%;
+}
+
+.titulos-h1{;
+	position: relative;
+	text-align: center;
+	font-size: 3em;
+	top: 75px;
+	font-family: "Sofia", sans-serif;
+	padding:  1.5em;
+	box-shadow: 2px 5px 5px 0 #000;
+	background-color: beige;
+	color: red;
+}
+
+.titulos-h1:hover{
+	background-color: lightblue;
+}
+
+
+#titulo-sushi {
+	line-height: 1em;
+	font-family: "Trirong", sans-serif;
+	position: relative;
+	top:  75px;
+	color: whitesmoke;
+	font-size: 2em;
+	background-color: black;
+    border-radius:  5%;
+    text-align: center;
+    padding: 0.1em;
+    box-shadow: 2px 5px 5px 0 #000;
+}
+
+
+[bicho="messi"]{
+	position: relative;
+	top: 75px;
+	font-family: "Audiowide", sans-serif;
+	background-color: beige;
+	text-align: center;
+}
